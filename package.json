@@ -1,5 +1,5 @@
 {
-  "name": "nightmare-js",
+  "name": "@rem2018/nightmare",
   "version": "1.0.0",
   "description": "import to create a nightmare",
   "main": "index.js",
